@@ -1,0 +1,9 @@
+FUNCTIONALITIES WE NEED HERE:
+Namespaces,use
+Class, abstract class extends and interfaces
+constants and define
+Exceptions and catch
+list()
+magic methods __get __set and __call
+and we use some return functions
+and we used script languages also
